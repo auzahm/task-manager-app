@@ -15,21 +15,21 @@ This project demonstrates **basic CRUD operations** (Create, Read, Update, Delet
 
 1. Clone the repo:
 
-git clone https://github.com/auzahm/task-manager-app.git
+      git clone https://github.com/auzahm/task-manager-app.git
 
 2. Navigate into the project folder
 
-cd task-manager-app
+      cd task-manager-app
 
 3. Install dependencies
 
-npm install
+      npm install
 
 4. Start the server:
    
-node server.js
+      node server.js
 
-The server will run at: http://localhost:3000
+      The server will run at: http://localhost:3000
 
 ## Usage
 
