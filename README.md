@@ -1,6 +1,7 @@
 # Task Manager API
 
-A simple **Task Manager backend API** built with **Node.js and Express**.  
+A simple **Task Manager backend API** built with **Node.js and Express**.
+
 This project demonstrates **basic CRUD operations** (Create, Read, Update, Delete) for tasks. Currently, tasks are stored in-memory (array) — future updates will include database integration and frontend.
 
 ## Features (Implemented)
@@ -13,16 +14,21 @@ This project demonstrates **basic CRUD operations** (Create, Read, Update, Delet
 ## Installation
 
 1. Clone the repo:
+
 git clone https://github.com/auzahm/task-manager-app.git
 
 2. Navigate into the project folder
+
 cd task-manager-app
 
 3. Install dependencies
+
 npm install
 
 4. Start the server:
+   
 node server.js
+
 The server will run at: http://localhost:3000
 
 ## Usage
