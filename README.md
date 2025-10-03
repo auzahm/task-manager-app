@@ -83,7 +83,7 @@ A **full stack Task Manager** built with:
 
 - Deploy to Vercel/Render + MongoDB Atlas 🌍
 
-  #
+#
 
 
 👤 **Author**
