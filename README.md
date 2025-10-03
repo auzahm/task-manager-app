@@ -53,6 +53,11 @@ A **full stack Task Manager** built with:
 
          npm install
 
+  3. Start the React app:
+
+         npm start
+
+
 
 👤 **Author**
 **Auzah Mansoor**
