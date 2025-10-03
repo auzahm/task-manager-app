@@ -22,6 +22,10 @@ A **full stack Task Manager** built with:
      
          cd backend
 
+  2. Install dependencies:
+
+         npm install
+
 [![Node.js](https://img.shields.io/badge/Node.js-v18-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
