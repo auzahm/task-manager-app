@@ -43,6 +43,13 @@ A **full stack Task Manager** built with:
 
 #
 
+🎨 **Frontend Setup**
+
+  1. Navigate to the frontend folder:
+
+         cd frontend
+
+
 👤 **Author**
 **Auzah Mansoor**
 
