@@ -20,7 +20,7 @@ A **full stack Task Manager** built with:
 
 #
 
-# ⚙️ Backend Setup
+⚙️ **Backend Setup**
 
   1. Navigate to the backend folder:
      
