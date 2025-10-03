@@ -2,7 +2,7 @@
 
 A **full stack Task Manager** built with:
 
-- **Fast and lightweight**  
+- **Backend:** Node.js, Express, MongoDB, Mongoose  
 
       - **Frontend:** React + Tailwind CSS
 
