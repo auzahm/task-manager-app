@@ -18,7 +18,9 @@ A **full stack Task Manager** built with:
 
 # ⚙️ Backend Setup
 
-      1. Navigate to the backend folder: cd backend
+  1. Navigate to the backend folder:
+     
+         cd backend
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
