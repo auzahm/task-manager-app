@@ -43,7 +43,7 @@ A **full stack Task Manager** built with:
 
 #
 
-## 👤 Author
+👤 **Author**
 **Auzah Mansoor**
 
 Web & Cloud Developer | GitHub: [auzahm](https://github.com/auzahm)
