@@ -4,9 +4,9 @@ A **full stack Task Manager** built with:
 
 - **Backend:** Node.js, Express, MongoDB, Mongoose  
 
-      - **Frontend:** React + Tailwind CSS
+- **Frontend:** React + Tailwind CSS
 
-      - **Features:** Add, update, delete, and mark tasks as complete ✅
+- **Features:** Add, update, delete, and mark tasks as complete ✅
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
