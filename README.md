@@ -16,6 +16,10 @@ A **full stack Task Manager** built with:
       ├── frontend/      # React + Tailwind UI
       └── README.md
 
+# ⚙️ Backend Setup
+
+      1. Navigate to the backend folder: cd backend
+
 [![Node.js](https://img.shields.io/badge/Node.js-v18-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
