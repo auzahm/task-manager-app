@@ -49,6 +49,10 @@ A **full stack Task Manager** built with:
 
          cd frontend
 
+  2. Install dependencies:
+
+         npm install
+
 
 👤 **Author**
 **Auzah Mansoor**
