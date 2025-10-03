@@ -31,6 +31,12 @@ A **full stack Task Manager** built with:
          MONGO_URI=your_mongo_connection
          PORT=3000
 
+  4. Start the server:
+
+         npm start
+
+➡️ API runs at: http://localhost:3000
+
 ## 👤 Author
 **Auzah Mansoor**
 
