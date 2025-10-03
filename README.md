@@ -73,6 +73,18 @@ A **full stack Task Manager** built with:
 
 #
 
+✨ **Features to Add Later**
+
+- User Authentication 🔐
+
+- Due Dates & Priority Levels 📅
+
+- Search & Filter Tasks 🔍
+
+- Deploy to Vercel/Render + MongoDB Atlas 🌍
+
+  #
+
 
 👤 **Author**
 
