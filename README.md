@@ -26,6 +26,11 @@ A **full stack Task Manager** built with:
 
          npm install
 
+  3. Create a .env file with your MongoDB connection string:
+
+         MONGO_URI=your_mongo_connection
+         PORT=3000
+
 [![Node.js](https://img.shields.io/badge/Node.js-v18-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
