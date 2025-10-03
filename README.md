@@ -8,6 +8,8 @@ A **full stack Task Manager** built with:
 
 - **Features:** Add, update, delete, and mark tasks as complete ✅
 
+#
+
 # 🚀 Project Structure
 
       task-manager-app/
@@ -15,6 +17,8 @@ A **full stack Task Manager** built with:
       ├── backend/       # Express + MongoDB API
       ├── frontend/      # React + Tailwind UI
       └── README.md
+
+#
 
 # ⚙️ Backend Setup
 
