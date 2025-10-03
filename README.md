@@ -8,6 +8,14 @@ A **full stack Task Manager** built with:
 
 - **Features:** Add, update, delete, and mark tasks as complete ✅
 
+# 🚀 Project Structure
+
+      task-manager-app/
+      │
+      ├── backend/       # Express + MongoDB API
+      ├── frontend/      # React + Tailwind UI
+      └── README.md
+
 [![Node.js](https://img.shields.io/badge/Node.js-v18-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
