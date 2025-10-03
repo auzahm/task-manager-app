@@ -10,7 +10,7 @@ A **full stack Task Manager** built with:
 
 #
 
-# 🚀 Project Structure
+🚀 **Project Structure**
 
       task-manager-app/
       │
