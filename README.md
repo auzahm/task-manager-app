@@ -57,6 +57,20 @@ A **full stack Task Manager** built with:
 
          npm start
 
+➡️ Frontend runs at: http://localhost:3001
+
+#
+
+📡 **API Endpoints**
+
+- GET /tasks → Get all tasks
+
+- POST /tasks → Add a new task
+
+- PUT /tasks/:id → Update task
+
+- DELETE /tasks/:id → Delete task
+
 #
 
 
