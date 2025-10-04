@@ -1,12 +1,8 @@
-# 🚀 Task Manager API
+# 📌 Task Manager API
 
 A **full stack Task Manager** built with:
 
-- **Backend:** Node.js, Express, MongoDB, Mongoose  
-
-- **Frontend:** React + Tailwind CSS
-
-- **Features:** Add, update, delete, and mark tasks as complete ✅
+Built with **Node.js, Express, MongoDB, React, and Tailwind CSS**.
 
 #
 
@@ -70,6 +66,13 @@ A **full stack Task Manager** built with:
 - PUT /tasks/:id → Update task
 
 - DELETE /tasks/:id → Delete task
+
+| Method | Endpoint     | Description    |
+| ------ | ------------ | -------------- |
+| GET    | `/tasks`     | Get all tasks  |
+| POST   | `/tasks`     | Add a new task |
+| PUT    | `/tasks/:id` | Update a task  |
+| DELETE | `/tasks/:id` | Delete a task  |
 
 #
 
