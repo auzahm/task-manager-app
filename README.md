@@ -67,12 +67,12 @@ Built with **Node.js, Express, MongoDB, React, and Tailwind CSS**.
 
 - DELETE /tasks/:id → Delete task
 
-| Method | Endpoint     | Description    |
-| ------ | ------------ | -------------- |
-| GET    | `/tasks`     | Get all tasks  |
-| POST   | `/tasks`     | Add a new task |
-| PUT    | `/tasks/:id` | Update a task  |
-| DELETE | `/tasks/:id` | Delete a task  |
+      | Method | Endpoint     | Description    |
+      | ------ | ------------ | -------------- |
+      | GET    | `/tasks`     | Get all tasks  |
+      | POST   | `/tasks`     | Add a new task |
+      | PUT    | `/tasks/:id` | Update a task  |
+      | DELETE | `/tasks/:id` | Delete a task  |
 
 #
 
