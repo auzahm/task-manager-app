@@ -9,9 +9,10 @@ const TaskItem = ({ task, onTaskUpdated }) => {
 
   const toggleComplete = async () => {
     try {
-      await axios.put(`http://localhost:3000/tasks/${task._id}`, {
+      await axios.put(`/api/tasks/${task._id}`, {
         completed: !task.completed,
       });
+
       toast.success(task.completed ? "Marked incomplete" : "Marked complete");
       onTaskUpdated();
     } catch (err) {
@@ -23,7 +24,7 @@ const TaskItem = ({ task, onTaskUpdated }) => {
   const saveEdit = async () => {
     if (!newTitle.trim()) return;
     try {
-      await axios.put(`http://localhost:3000/tasks/${task._id}`, {
+      await axios.put(`/api/tasks/${task._id}`, {
         title: newTitle,
       });
       setIsEditing(false);
@@ -70,9 +71,8 @@ const TaskItem = ({ task, onTaskUpdated }) => {
           />
         ) : (
           <span
-            className={`text-gray-800 dark:text-gray-200 ${
-              task.completed ? "line-through text-gray-400 dark:text-gray-400" : ""
-            }`}
+            className={`text-gray-800 dark:text-gray-200 ${task.completed ? "line-through text-gray-400 dark:text-gray-400" : ""
+              }`}
           >
             {task.title}
           </span>

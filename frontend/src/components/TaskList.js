@@ -7,7 +7,7 @@ const TaskList = ({ onTaskUpdated, filter }) => {
 
   const fetchTasks = async () => {
     try {
-      const res = await axios.get("http://localhost:3000/tasks");
+      const res = await axios.get("/api/tasks");
       setTasks(res.data);
     } catch (err) {
       console.error(err);

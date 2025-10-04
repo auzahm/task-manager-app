@@ -9,7 +9,7 @@ const AddTask = ({ onTaskAdded }) => {
     if (!title) return;
 
     try {
-      await axios.post("http://localhost:3000/tasks", { title });
+      await axios.post("/api/tasks", { title });
       onTaskAdded();
       setTitle("");
     } catch (err) {
