@@ -59,14 +59,6 @@ Built with **Node.js, Express, MongoDB, React, and Tailwind CSS**.
 
 📡 **API Endpoints**
 
-- GET /tasks → Get all tasks
-
-- POST /tasks → Add a new task
-
-- PUT /tasks/:id → Update task
-
-- DELETE /tasks/:id → Delete task
-
   | Method | Endpoint     | Description    |
   | ------ | ------------ | -------------- |
   | GET    | `/tasks`     | Get all tasks  |
