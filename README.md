@@ -86,7 +86,19 @@ Built with **Node.js, Express, MongoDB, React, and Tailwind CSS**.
 
 - Frontend: (e.g. Vercel / Netlify)
 
+#
 
+📌 **Future Enhancements**
+
+- User Authentication 🔐
+
+- Due Dates & Priority Levels 📅
+
+- Search & Filter Tasks 🔍
+
+- Deploy full-stack app 🌍
+
+  #
 
 👤 **Author**
 
