@@ -68,17 +68,24 @@ Built with **Node.js, Express, MongoDB, React, and Tailwind CSS**.
 
 #
 
-✨ **Features to Add Later**
+✨ **Features**
 
-- User Authentication 🔐
+✅ Add, update, delete tasks
 
-- Due Dates & Priority Levels 📅
+✅ Mark tasks as completed
 
-- Search & Filter Tasks 🔍
+✅ Dark Mode UI 🌙
 
-- Deploy to Vercel/Render + MongoDB Atlas 🌍
+🚧 More features coming soon...
 
 #
+
+🌍 **Deployment**
+
+- Backend: (e.g. Render / Railway / Heroku)
+
+- Frontend: (e.g. Vercel / Netlify)
+
 
 
 👤 **Author**
