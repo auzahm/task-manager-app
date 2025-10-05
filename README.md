@@ -82,9 +82,12 @@ Built with **Node.js, Express, MongoDB, React, and Tailwind CSS**.
 
 🌍 **Deployment**
 
-- Backend: (e.g. Render / Railway / Heroku)
+- **Frontend:** Deployed on [Vercel](https://vercel.com)
 
-- Frontend: (e.g. Vercel / Netlify)
+- **Backend:** Deployed as Vercel Serverless Functions
+
+➡️ Live Demo: https://task-manager-app-one-gules.vercel.app/
+
 
 #
 
