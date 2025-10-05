@@ -86,7 +86,7 @@ Built with **Node.js, Express, MongoDB, React, and Tailwind CSS**.
 
 - **Backend:** Deployed as Vercel Serverless Functions
 
-➡️ Live Demo: [[https://your-vercel-app.vercel.app](https://your-vercel-app.vercel.app)](https://task-manager-app-one-gules.vercel.app/)
+➡️ Live Demo: https://task-manager-app-one-gules.vercel.app/
 
 
 #
